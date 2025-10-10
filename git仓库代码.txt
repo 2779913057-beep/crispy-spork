@@ -564,4 +564,5 @@ createDialog GitHubFileManager
 
 print "\n>>> 界面已加载完成"
 print ">>> 使用'插入换行'按钮来添加换行"
+
 print ">>> 点击'显示帮助'查看详细说明"
